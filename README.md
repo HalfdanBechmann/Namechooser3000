@@ -7,3 +7,69 @@ HDMI-CEC is used for starting the drawing by pressing the play button on the TV 
 
 To satisfy conerns about the randomness of the choice, quantum random data is streamed from the Australian National University Quantum Random Number Server (qrng.anu.edu.au).
 
+
+
+
+
+Håkon B
+Øivind
+Viggo
+Henrik K
+Arjan
+Marius
+Kjell Eirik
+Jo Stein
+Steffen
+Torkil
+Audun
+Carl Aage
+Hanna
+Amund
+Halfdan
+Johnny 
+Steven
+Bernt
+Kjetil
+Aksel
+Espen He
+Mehmet Akif
+Byung Kyu
+Håkon H
+Olve
+Marit
+Arne
+Luis
+Andreas E
+Trond
+Marton
+Knut Olav
+Håvard
+Magnus
+Rune G
+Franco
+Øystein
+Robin
+Fredrik S
+Hannes
+Nejc
+Rune S
+Petter
+Andreas K
+Fredrik L
+Marco
+Jacob
+Peter
+Espen Ho
+Mudasir
+Bjørn-Ivar 
+Torjus
+Henrik G
+Eirik
+Kristine
+Rune A
+Vladimir
+Sagar
+Pål
+Rajiv
+Luca
+
